@@ -195,7 +195,7 @@ ORDER BY SpendRank;
 - **Database:** MySQL 8.0+
 - **Concepts used:** DDL, joins, subqueries, CTEs, window functions (`RANK`, `DENSE_RANK`, `LAG`, running totals), aggregate functions, date functions
 
----
+--- 
 
 ## 🚀 Future Enhancements
 
