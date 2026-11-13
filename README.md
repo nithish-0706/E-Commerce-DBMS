@@ -132,8 +132,8 @@ erDiagram
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/nithish-0706/E-Commerce-DBMS.git
-   cd E - Commerce DBMS.sql
+   git clone https://github.com/nithish-0706 
+   cd https://github.com/nithish-0706/E-Commerce-DBMS.git
    ```
 
 2. **Create the database**
